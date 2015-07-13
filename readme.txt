@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick OR simple.
 new line
 bug 101 fixed
+new chapter for stash feature
