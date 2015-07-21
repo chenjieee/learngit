@@ -6,3 +6,4 @@ Creating a new branch is quick OR simple.
 new line
 bug 101 fixed
 new chapter for stash feature
+add a new line

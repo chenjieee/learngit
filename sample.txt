@@ -1,3 +1,4 @@
 working with compare
 add a new line
 add another line
+hello
