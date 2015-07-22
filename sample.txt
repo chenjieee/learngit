@@ -2,3 +2,4 @@ working with compare but remotely
 add a new line
 add another line
 hello
+new line for remote
