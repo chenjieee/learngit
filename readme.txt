@@ -7,3 +7,4 @@ new line
 bug 101 fixed
 new chapter for stash feature
 add a new line
+another line from vm
